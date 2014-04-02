@@ -1,0 +1,4 @@
+goSlideshow
+===========
+
+slideshow javascript library
